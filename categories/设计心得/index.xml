@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello</title>
-    <link>http://lisanie.github.io/</link>
-    <description>Recent content on Hello</description>
+    <title>设计心得 on Hello</title>
+    <link>http://lisanie.github.io/categories/%E8%AE%BE%E8%AE%A1%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 设计心得 on Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 27 Jun 2015 22:52:42 +0800</lastBuildDate>
-    <atom:link href="http://lisanie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lisanie.github.io/categories/%E8%AE%BE%E8%AE%A1%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>名片设计</title>
@@ -40,16 +40,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;设计师在设计的时候，都希望能制作出有独特创意的名片，但设计同时，也不得不考虑一些制作成本，所以，要根据实际情况拟定设计思路。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>这是我的站点</title>
-      <link>http://lisanie.github.io/post/first/</link>
-      <pubDate>Thu, 25 Jun 2015 01:37:51 +0800</pubDate>
-      
-      <guid>http://lisanie.github.io/post/first/</guid>
-      <description>&lt;p&gt;hello world&lt;/p&gt;
 </description>
     </item>
     

@@ -6,25 +6,15 @@
     <description>Recent content in Posts on Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2015 01:37:51 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2015 22:52:42 +0800</lastBuildDate>
     <atom:link href="http://lisanie.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>这是我的站点</title>
-      <link>http://lisanie.github.io/post/first/</link>
-      <pubDate>Thu, 25 Jun 2015 01:37:51 +0800</pubDate>
+      <title>名片设计</title>
+      <link>http://lisanie.github.io/post/namecards/</link>
+      <pubDate>Sat, 27 Jun 2015 22:52:42 +0800</pubDate>
       
-      <guid>http://lisanie.github.io/post/first/</guid>
-      <description>&lt;p&gt;hello world&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://lisanie.github.io/post/namecard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lisanie.github.io/post/namecard/</guid>
+      <guid>http://lisanie.github.io/post/namecards/</guid>
       <description>&lt;p&gt;&lt;strong&gt;名片设计心得&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -50,6 +40,16 @@
 &lt;blockquote&gt;
 &lt;p&gt;设计师在设计的时候，都希望能制作出有独特创意的名片，但设计同时，也不得不考虑一些制作成本，所以，要根据实际情况拟定设计思路。&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>这是我的站点</title>
+      <link>http://lisanie.github.io/post/first/</link>
+      <pubDate>Thu, 25 Jun 2015 01:37:51 +0800</pubDate>
+      
+      <guid>http://lisanie.github.io/post/first/</guid>
+      <description>&lt;p&gt;hello world&lt;/p&gt;
 </description>
     </item>
     
